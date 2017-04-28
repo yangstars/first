@@ -5,3 +5,5 @@ class No{
 		String appendYesterday = yesterday.substring(0, 4)+""+yesterday.substring(5, 7)+""+yesterday.substring(8, 10);
 		System.out.println(yesterday);
 		System.out.println(appendYesterday);
+	}
+}
